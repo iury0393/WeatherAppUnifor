@@ -1,6 +1,6 @@
 package br.com.weatherappunifor.retrofit;
 
-import java.util.Observable;
+import io.reactivex.Observable;
 
 import br.com.weatherappunifor.model.WeatherResult;
 import retrofit2.http.GET;
