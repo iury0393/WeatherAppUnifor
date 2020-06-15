@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeatherAppUnifor.iml" filepath="$PROJECT_DIR$/WeatherAppUnifor.iml" group="WeatherAppUnifor" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="WeatherAppUnifor/app" />
+    </modules>
+  </component>
+</project>
